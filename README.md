@@ -1,7 +1,7 @@
 # update-xtables-geoip
 Simple script to update xtables geoip
 
-##Update & Install Dependencies
+## Update & Install Dependencies
 > sudo apt update; sudo apt -y upgrade\
 > sudo apt install curl unzip perl\
 > sudo apt install xtables-addons-common\
@@ -9,5 +9,5 @@ Simple script to update xtables geoip
 > sudo apt install composer\
 
 
-##Required:
+## Required:
 https://github.com/ip2location/ip2location-csv-converter
